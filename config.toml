@@ -1,7 +1,7 @@
 baseURL = "https://blog.mountainmoss.nz/"
 languageCode = "en-nz"
 title = "Adventures in Code"
-theme = "hugo-bootstrap"
+theme = "blackburn"
 
 # Pagination
 paginate = 3
