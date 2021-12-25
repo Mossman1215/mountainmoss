@@ -6,6 +6,7 @@ theme = "blackburn"
 # Pagination
 paginate = 3
 paginatePath = "page"
+uglyurls = true
 
 [taxonomies]
   tag = "tags"
