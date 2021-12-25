@@ -6,7 +6,7 @@ draft: false
 
 ## So I was wrong
 
-To remove the public buket alert I have updated my blog infrastructure.
+To remove the public bucket alert I have updated my blog infrastructure.
 Using code I intended to use for static publishing for a CMS tool.
 <https://github.com/Mossman1215/mountainmoss-tf>
 This uses a cloudfront distribution to control access and the s3 only allows the cloudfront identity to fetch content.
@@ -17,10 +17,10 @@ This module is intended for that use.
 
 <https://github.com/Mossman1215/tf-static-site>
 
-I thought that rewriting index.html code was required based on this article <https://danmc.net/posts/aws-cloudfront-default-index/>
+I thought that rewriting index.html with lambda code was required based on this article <https://danmc.net/posts/aws-cloudfront-default-index/>
 
 [perma link](https://web.archive.org/web/20210516185139/https://danmc.net/posts/aws-cloudfront-default-index/)
 
-but instead it's easier to turn on ugly urls in hugo
+but instead it's easier to turn on ugly urls in hugo (no code is the best code!)
 
 <https://gohugo.io/content-management/urls/#ugly-urls>
