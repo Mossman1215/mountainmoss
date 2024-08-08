@@ -1,7 +1,7 @@
-baseURL = "https://blog.mountainmoss.nz/"
+baseURL = "https://mossman1215.github.io/mountainmoss/"
 languageCode = "en-nz"
 title = "Adventures in Code"
-theme = "blackburn"
+theme = "hugo-flex"
 
 # Pagination
 paginate = 3
@@ -20,7 +20,7 @@ uglyurls = true
 
   # Replace the default footer message with a localized message
   # copyright = "Hugo template made with ❤ by Xzya"
-  copyright = "Mossman 20234"
+  copyright = "Mossman 2024"
   [[languages.en.menu.main]]
     url = "/"
     name = "Home"
