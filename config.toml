@@ -1,4 +1,4 @@
-baseURL = "https://mossman1215.github.io/mountainmoss/"
+baseURL = "https://blog.mountainmoss.nz/"
 languageCode = "en-nz"
 title = "Adventures in Code"
 theme = "hugo-flex"
