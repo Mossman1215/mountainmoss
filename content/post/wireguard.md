@@ -27,7 +27,7 @@ That allows me to assign gateway addresses and static routes in order to forward
 
 My hope is that it will resolve routing issues and so far on twodegrees I have been routed to my cloud server via auckland with 38ms of latency which for a game server is within my acceptable range.
 
-Implementation all worked well thannks to the redhat guides on configuring network manager.
+Implementation all worked well thannks to [the redhat guides on configuring network manager](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/configuring_and_managing_networking/assembly_setting-up-a-wireguard-vpn_configuring-and-managing-networking#proc_configuring-a-wireguard-server-by-using-the-wg-quick-service_assembly_setting-up-a-wireguard-vpn).
 The only issue I had was not ticking the automatically connect tickbox when creating the connections.
 Which lead to a couple of automatic patching related outages.
 
