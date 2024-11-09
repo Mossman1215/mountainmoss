@@ -44,7 +44,9 @@ uglyurls = true
   mainSections = ["post"]
 
   # Default author
-  author = "Moss"
+  [params.author]
+  name = "Moss"
+  email = "moss@mountainmoss.nz"
 
   # Date format (default: Jan 2, 2006)
   # date_format = "Jan 2, 2006"
