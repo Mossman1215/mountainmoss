@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Programmer, Tinkerer, DNS consultant, site reliability enthusiast. ❤ python & Powershell. he/him
+Programmer, Tinkerer, Computer Philosopher, Site Reliability Enthusiast. ❤ Python, Golang, Rust, SQLite. he/him
